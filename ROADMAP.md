@@ -1,4 +1,4 @@
-# 🚀 MY AI ENGINEER ROAD MAP
+#  MY AI ENGINEER ROAD MAP
 
 ## Progress Tracker
 
