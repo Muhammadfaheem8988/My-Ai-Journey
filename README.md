@@ -33,7 +33,8 @@ This repository will contain all the helping material that I will use throughout
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
 ### ✅ Numpy, Pandas, Data Visualization
-- *Resources coming soon*
+- [Codemy YouTube Channel](https://www.youtube.com/@Codemycom)
+- [CampusX YouTube Channel](https://www.youtube.com/@campusx-official)
 
 ### ✅ Exploratory Data Analysis
 - [CampusX YouTube Channel](https://www.youtube.com/@campusx-official)
