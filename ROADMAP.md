@@ -10,14 +10,16 @@
   - [x] Linear Algebra
   - [x] Probability & Statistics
 - [x] Advance Python
+- [x] Data Structures and Algorithms in Python
+- [x] Version Control (Git, GitHub)
+- [x] SQL
+- [x] Numpy, Pandas, Data Visualization
+- [x] Exploratory Data Analysis
 
-### 🔄 In Progress / Upcoming
-- [ ] Data Structures and Algorithms in Python
-- [ ] Version Control (Git, GitHub)
-- [ ] SQL
-- [ ] Numpy, Pandas, Data Visualization
-- [ ] Exploratory Data Analysis
+### 🔄 Currently Learning
 - [ ] Machine Learning
+
+### 📋 Upcoming
 - [ ] ML Ops
 - [ ] Machine Learning Projects
 - [ ] Deep Learning
